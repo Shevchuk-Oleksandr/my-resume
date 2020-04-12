@@ -1,0 +1,210 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.body {
+  background-color: #f5f7fa;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+
+  font-family: Montserrat;
+}
+
+.main-content {
+  -color: floralwhite;
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+  box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+}
+
+.aside {
+  background-color: #1e2939;
+  width: 370px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.img {
+  width: 370px;
+}
+
+.aboutme {
+  padding-left: 90px;
+  padding-right: 90px;
+  padding-top: 110px;
+  padding-bottom: 110px;
+}
+
+.contact {
+  margin-top: 60px;
+  margin-left: 40px;
+  margin-right: 40px;
+  color: white;
+}
+.con {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 20px;
+}
+
+.telefon {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #7f858f;
+}
+
+.mail {
+  color: #7f858f;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.bukva {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  color: white;
+  margin-right: 10px;
+}
+.Tech-Skills {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 20px;
+  color: white;
+}
+.texstil {
+  margin-left: 40px;
+  margin-right: 40;
+  margin-top: 55px;
+}
+
+.Tech {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-left: 15px;
+  color: #e3630e;
+}
+.techtex {
+  color: #d2d4d7;
+}
+.front {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 23px;
+}
+.name {
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 89px;
+}
+.deskription {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: 24px;
+}
+.me {
+  margin-bottom: 65px;
+}
+.proj {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 2;
+  margin-bottom: 10px;
+}
+.projmail {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #858585;
+}
+.zhyr {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #6f6f6f;
+}
+.dots {
+  color: #6f6f6f;
+  font-weight: 100;
+}
+.CYFRY {
+  font-weight: 700;
+  margin-left: 15px;
+}
+
+.projec {
+  margin-bottom: 55px;
+}
+
+.developer {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+.orang {
+  color: #ff7f29;
+}
+
+.data {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #d1d1d1;
+}
+
+.tolst {
+  color: black;
+}
+.vidstan {
+  margin-top: 14px;
+  margin-bottom: 30px;
+}
+
+.texcolor {
+  color: #595959;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.end {
+  color: #ff6b08;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  padding-bottom: 20px;
+}
+
+.mang {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  color: black;
+  padding-bottom: 15px;
+}
+
+.data2 {
+  color: #a8a8a8;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 24px;
+  padding-top: 14px;
+}
